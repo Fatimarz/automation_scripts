@@ -1,0 +1,5 @@
+-- read all files (os.listdir())
+-- for each file, check extension os.path.splitext() and save in name, extension
+-- if .docx then set new_name and rename (os.rename(f,rename))
+
+# moving into folders
